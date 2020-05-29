@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\SoftTestLab2Yamanko.deps.json
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\SoftTestLab2Yamanko.runtimeconfig.json
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\SoftTestLab2Yamanko.runtimeconfig.dev.json
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\SoftTestLab2Yamanko.dll
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.AssemblyInfo.cs
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\bin\Debug\netcoreapp2.1\SoftTestLab2Yamanko.pdb
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.dll
+C:\Users\denis\source\repos\SoftTestLab2Yamanko\SoftTestLab2Yamanko\obj\Debug\netcoreapp2.1\SoftTestLab2Yamanko.pdb
